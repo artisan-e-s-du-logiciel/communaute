@@ -31,4 +31,3 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
   [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/town-square))
 * Sur [#top50](https://framateam.org/artisan-e-s-du-logiciel/channels/top50) on partage parfois de la musique pour le plaisir des oreilles
   (quand... you get the idea)
-* Sur [#télétravail](https://framateam.org/artisan-e-s-du-logiciel/channels/teletravail), on parle de travail à la maison
