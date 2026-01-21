@@ -31,3 +31,5 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
   [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/town-square))
 * Sur [#top50](https://framateam.org/artisan-e-s-du-logiciel/channels/top50) on partage parfois de la musique pour le plaisir des oreilles
   (quand... you get the idea)
+* Sur [#tech-jeux-de-code](https://framateam.org/artisan-e-s-du-logiciel/channels/tech-jeux-de-code) on fait des jeux de programmation
+  non-compétitifs pour progresser ensemble (comme Advent of Code)
