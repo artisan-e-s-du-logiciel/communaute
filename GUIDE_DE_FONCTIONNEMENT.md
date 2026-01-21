@@ -1,16 +1,16 @@
 # Guide de fonctionnement
 
-Ce document décrit le fonctionnement de l'espace Slack des Artisan·e·s du logiciel.
+Ce document décrit le fonctionnement de l'espace Framateam des Artisan·e·s du logiciel.
 
 ## Arrivée
 
 Si on a envie, on peut se présenter dans le canal #bienvenue.
 
-On peut aussi y poser toutes ses questions sur le fonctionnement de cet espace Slack.
+On peut aussi y poser toutes ses questions sur le fonctionnement de cet espace Framateam.
 
 ## Règles de participation
 
-Cet espace Slack est soumis à un [code de conduite](CODE_DE_CONDUITE.md), que chaque participant·e doit respecter.
+Cet espace Framateam est soumis à un [code de conduite](CODE_DE_CONDUITE.md), que chaque participant·e doit respecter.
 
 L'objectif de ces règles est de faire vivre un espace où l'on peut avoir des conversations de qualité et où chacune et chacun se sent libre de contribuer en toute sécurité.
 
@@ -22,7 +22,7 @@ Si vous avez des doutes ou des questions, n'hésitez pas à demander de l'aide !
 
 ## Trucs et astuces
 
-Slack permet de réagir avec des icônes :
+Framateam permet de réagir avec des icônes :
 
 - si vous n'êtes pas d'accord, vous pouvez l'exprimer simplement avec 👎 ; évitez par contre les icônes désobligeantes comme le caca ou le vomi
 
@@ -40,6 +40,6 @@ Une invitation est individuelle : ne l'adressez pas à un groupe, mais seulement
 
 ## Départ
 
-Si cet espace ne répond pas à vos besoins, vous êtes bien sûr libre de le quitter à tout moment : https://get.slack.help/hc/fr-fr/articles/203953146-Désactiver-votre-compte-Slack
+Si cet espace ne répond pas à vos besoins, vous êtes bien sûr libre de le quitter à tout moment en cliquant sur le menu de l'équipe puis "Quitter l'équipe".
 
 En cas de violation du [code de conduite](CODE_DE_CONDUITE.md), les administrateurs peuvent également décider d'exclure un·e membre.
