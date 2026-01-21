@@ -17,7 +17,7 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
 ## Petit guide des canaux
 
 * Sur [#annonces-de-service](https://framateam.org/artisan-e-s-du-logiciel/channels/annonces-de-service) on parle de Framateam
-* Sur [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/discussions-generales) on parle d'artisanat logiciel
+* Sur [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/town-square) on parle d'artisanat logiciel
 * Sur [#random](https://framateam.org/artisan-e-s-du-logiciel/channels/random) on parle de tout et n'importe
   quoi (à moins que ce soit l'inverse, les deux channels échangent régulièrement leur rôle et ça n'a pas l'air de gêner plus que ça)
 * Sur [#joies](https://framateam.org/artisan-e-s-du-logiciel/channels/joies) on partage nos joies
@@ -30,11 +30,11 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
 * Sur [#meugnon](https://framateam.org/artisan-e-s-du-logiciel/channels/meugnon) on poste parfois des photos de petits animaux trop meugnons awww rien
   que d'y penser je fonds
 * Sur [#accompagner](https://framateam.org/artisan-e-s-du-logiciel/channels/accompagner) on parle parfois d'accompagner des équipes (quand ça n'a pas lieu sur
-  [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/discussions-generales) ou [#random](https://framateam.org/artisan-e-s-du-logiciel/channels/random))
+  [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/town-square) ou [#random](https://framateam.org/artisan-e-s-du-logiciel/channels/random))
 * Sur [#business](https://framateam.org/artisan-e-s-du-logiciel/channels/business) on partage parfois des opportunités de business
 * Sur [#dépôt-de-liens](https://framateam.org/artisan-e-s-du-logiciel/channels/depot-de-liens) on dépose parfois des liens intéressants à lire pour se muscler
   le neurone (quand ça n'a pas lieu sur [#random](https://framateam.org/artisan-e-s-du-logiciel/channels/random) ou
-  [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/discussions-generales))
+  [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/town-square))
 * Sur [#top50](https://framateam.org/artisan-e-s-du-logiciel/channels/top50) on partage parfois de la musique pour le plaisir des oreilles
   (quand... you get the idea)
 * [#pɹivilèges](https://framateam.org/artisan-e-s-du-logiciel/channels/privileges) a un statut particulier : les hommes cis blancs ne peuvent rien faire
