@@ -25,8 +25,6 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
   [#peines](https://framateam.org/artisan-e-s-du-logiciel/channels/peines), invitation à lire le message de topic du channel et tourner
   sept fois ses doigts dans ça bouche. On peut donc répondre sur [#peines](https://framateam.org/artisan-e-s-du-logiciel/channels/peines),
   mais la pénalité est d'avoir un clavier mouillé)
-* Sur [#haskell](https://framateam.org/artisan-e-s-du-logiciel/channels/haskell) on fait du Haskell les lundi midi (sauf quand on n'en fait pas)
-  et c'est chouette
 * Sur [#meugnon](https://framateam.org/artisan-e-s-du-logiciel/channels/meugnon) on poste parfois des photos de petits animaux trop meugnons awww rien
   que d'y penser je fonds
 * Sur [#accompagner](https://framateam.org/artisan-e-s-du-logiciel/channels/accompagner) on parle parfois d'accompagner des équipes (quand ça n'a pas lieu sur
