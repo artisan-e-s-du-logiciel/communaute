@@ -25,8 +25,6 @@ Merci de prendre connaissance du petit [guide de fonctionnement](GUIDE_DE_FONCTI
   [#peines](https://framateam.org/artisan-e-s-du-logiciel/channels/peines), invitation à lire le message de topic du channel et tourner
   sept fois ses doigts dans ça bouche. On peut donc répondre sur [#peines](https://framateam.org/artisan-e-s-du-logiciel/channels/peines),
   mais la pénalité est d'avoir un clavier mouillé)
-* Sur [#accompagner](https://framateam.org/artisan-e-s-du-logiciel/channels/accompagner) on parle parfois d'accompagner des équipes (quand ça n'a pas lieu sur
-  [#discussions-générales](https://framateam.org/artisan-e-s-du-logiciel/channels/town-square) ou [#random](https://framateam.org/artisan-e-s-du-logiciel/channels/random))
 * Sur [#business](https://framateam.org/artisan-e-s-du-logiciel/channels/business) on partage parfois des opportunités de business
 * Sur [#dépôt-de-liens](https://framateam.org/artisan-e-s-du-logiciel/channels/depot-de-liens) on dépose parfois des liens intéressants à lire pour se muscler
   le neurone (quand ça n'a pas lieu sur [#random](https://framateam.org/artisan-e-s-du-logiciel/channels/random) ou
