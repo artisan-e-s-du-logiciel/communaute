@@ -10,7 +10,7 @@ On peut aussi y poser toutes ses questions sur le fonctionnement de cet espace F
 
 ## Règles de participation
 
-Cet espace Framateam est soumis à un [code de conduite](CODE_DE_CONDUITE.md), que chaque participant·e doit respecter.
+Cet espace Framateam est soumis à un [code de conduite](CODE_DE_CONDUITE.md), que chaque participant·e doit respecter. Il est également soumis à la [charte de modération des espaces gérés par Framasoft](https://framasoft.org/fr/moderation/).
 
 L'objectif de ces règles est de faire vivre un espace où l'on peut avoir des conversations de qualité et où chacune et chacun se sent libre de contribuer en toute sécurité.
 
